@@ -16,7 +16,7 @@ contract AstroArenaNFT is ERC1155, Ownable {
 
     string private _baseURI;
 
-    constructor(string memory baseURI) ERC1155(baseURI) {
+    constructor(string memory baseURI, address initialOwner) ERC1155(baseURI) Ownable(initialOwner) {
         _baseURI = baseURI;
     }
 
