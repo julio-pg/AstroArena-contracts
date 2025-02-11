@@ -8,11 +8,9 @@ import "@openzeppelin/contracts/utils/Strings.sol";
 contract AstroArenaNFT is ERC1155, Ownable {
     using Strings for uint256;
 
-    uint256 public constant NEBULA_WISP = 1;
-    uint256 public constant PLASMA_DRONE = 2;
-    uint256 public constant QUANTUM_BEAST = 3;
-    uint256 public constant CYBER_WYRM = 4;
-    uint256 public constant VOID_REAPER = 5;
+    uint256 public constant CINDERWING_DRAGON = 1;
+    uint256 public constant CYBER_GATOR = 2;
+    uint256 public constant SPECTACLED_BEAR = 3;
 
     string private _baseURI;
 

@@ -284,7 +284,7 @@
 			},
 			{
 				"inputs": [],
-				"name": "CYBER_WYRM",
+				"name": "CINDERWING_DRAGON",
 				"outputs": [
 					{
 						"internalType": "uint256",
@@ -297,7 +297,7 @@
 			},
 			{
 				"inputs": [],
-				"name": "NEBULA_WISP",
+				"name": "CYBER_GATOR",
 				"outputs": [
 					{
 						"internalType": "uint256",
@@ -310,33 +310,7 @@
 			},
 			{
 				"inputs": [],
-				"name": "PLASMA_DRONE",
-				"outputs": [
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "QUANTUM_BEAST",
-				"outputs": [
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "VOID_REAPER",
+				"name": "SPECTACLED_BEAR",
 				"outputs": [
 					{
 						"internalType": "uint256",
@@ -932,11 +906,11 @@
 			]
 		},
 		"contracts/AstroArenaNFT.sol": {
-			"keccak256": "0x936255c72d8e65afffe6b7632f03e39a778293cdb9abdc9fdceed03eb6b6385f",
+			"keccak256": "0x1b888924ee8c8ddf7c13ddefe71c144cb02b47a772379f95feb2f3f708470ec8",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://7db0bba348e3ee789157d9d2661ed6d777443521e5007a07ba09232630d02d05",
-				"dweb:/ipfs/QmYTgXuibyXyZEGvGjCE26cGPEw4txz5shzKVtqUHUJswG"
+				"bzz-raw://9f8032a084f251f873086054a4b571c132476063ef968e43df0abfc04f98b9eb",
+				"dweb:/ipfs/QmZ1Wouhmf785V6EEBk9dYj4Cs9356AwY36SsbSRypb7iE"
 			]
 		}
 	},
